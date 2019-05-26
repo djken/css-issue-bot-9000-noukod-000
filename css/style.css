@@ -17,7 +17,7 @@ h2 {
   font-family: "Comic Sans MS";
 }
 
-#tasks.completed {
+#tasks .completed {
   background-color: #ccc;
   text-decoration: underline;
 }
